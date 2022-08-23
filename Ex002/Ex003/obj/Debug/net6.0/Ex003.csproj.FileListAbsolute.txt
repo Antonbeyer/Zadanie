@@ -1,0 +1,15 @@
+C:\Users\anton\Desktop\Git\reopor\Exampls\Ex001\Ex002\Ex003\bin\Debug\net6.0\Ex003.exe
+C:\Users\anton\Desktop\Git\reopor\Exampls\Ex001\Ex002\Ex003\bin\Debug\net6.0\Ex003.deps.json
+C:\Users\anton\Desktop\Git\reopor\Exampls\Ex001\Ex002\Ex003\bin\Debug\net6.0\Ex003.runtimeconfig.json
+C:\Users\anton\Desktop\Git\reopor\Exampls\Ex001\Ex002\Ex003\bin\Debug\net6.0\Ex003.dll
+C:\Users\anton\Desktop\Git\reopor\Exampls\Ex001\Ex002\Ex003\bin\Debug\net6.0\Ex003.pdb
+C:\Users\anton\Desktop\Git\reopor\Exampls\Ex001\Ex002\Ex003\obj\Debug\net6.0\Ex003.csproj.AssemblyReference.cache
+C:\Users\anton\Desktop\Git\reopor\Exampls\Ex001\Ex002\Ex003\obj\Debug\net6.0\Ex003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Desktop\Git\reopor\Exampls\Ex001\Ex002\Ex003\obj\Debug\net6.0\Ex003.AssemblyInfoInputs.cache
+C:\Users\anton\Desktop\Git\reopor\Exampls\Ex001\Ex002\Ex003\obj\Debug\net6.0\Ex003.AssemblyInfo.cs
+C:\Users\anton\Desktop\Git\reopor\Exampls\Ex001\Ex002\Ex003\obj\Debug\net6.0\Ex003.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Git\reopor\Exampls\Ex001\Ex002\Ex003\obj\Debug\net6.0\Ex003.dll
+C:\Users\anton\Desktop\Git\reopor\Exampls\Ex001\Ex002\Ex003\obj\Debug\net6.0\refint\Ex003.dll
+C:\Users\anton\Desktop\Git\reopor\Exampls\Ex001\Ex002\Ex003\obj\Debug\net6.0\Ex003.pdb
+C:\Users\anton\Desktop\Git\reopor\Exampls\Ex001\Ex002\Ex003\obj\Debug\net6.0\Ex003.genruntimeconfig.cache
+C:\Users\anton\Desktop\Git\reopor\Exampls\Ex001\Ex002\Ex003\obj\Debug\net6.0\ref\Ex003.dll
